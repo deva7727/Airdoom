@@ -17,6 +17,21 @@ A simple ESP32 pen-testing firmware for ESP32 boards.
 
 Demo video: [Demo.mp4](Demo.mp4)
 
+- Inline image (will display on GitHub):
+
+  ![ESP32 board](esp32.png)
+
+- Clickable video thumbnail (click to play the MP4 in the browser):
+
+  [![Demo video thumbnail](esp32.png)](Demo.mp4)
+
+- Optional inline player (may or may not autoplay depending on viewer):
+
+  <video controls width="640">
+    <source src="Demo.mp4" type="video/mp4">
+    Your browser does not support the video tag. Click here to view: <a href="Demo.mp4">Demo.mp4</a>
+  </video>
+
 
 ## Hardware Requirements
 
@@ -24,8 +39,6 @@ Demo video: [Demo.mp4](Demo.mp4)
 - Minimum 4MB flash
 - USB cable for flashing
 
-
-Esp32: [esp32.png](esp32.png)
 
 
 ---
