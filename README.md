@@ -18,6 +18,12 @@ A simple ESP32 pen-testing firmware for ESP32 boards.
 Demo video: [Demo.mp4](Demo.mp4)
 
 
+  <video controls autoplay muted loop width="640">
+    <source src="Demo.mp4" type="video/mp4">
+    Your browser does not support the video tag. Click here to view: <a href="Demo.mp4">Demo.mp4</a>
+  </video>
+
+
 
 ## Hardware Requirements
 
